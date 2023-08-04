@@ -8,3 +8,4 @@ function addition () {
 return a + b;
 }
 // Invoke addition function to run the calculator
+console.log(addition());
