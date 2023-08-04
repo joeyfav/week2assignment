@@ -7,5 +7,5 @@ function addition () {
 //The addition function will return the addition for input a and b
 return a + b;
 }
-// Invoke addition function to run the calculator
+// Invoke addition functgition to run the calculator
 console.log(addition());
